@@ -28,7 +28,7 @@ EDA is the crucial process of performing initial investigations on data to disco
 ## 🚀 How to Run
 1. Clone the repository.
 2. Install required libraries: `pip install pandas matplotlib seaborn`
-3. Run the Jupyter Notebook or Python script `titanic_eda.py`.
+3. Run the Jupyter Notebook or Python script `code.ipynb`.
 
 ## 📚 Resources
 - **Video:** [StatQuest: Exploratory Data Analysis (EDA), A Crash Course](https://www.youtube.com/watch?v=HddgL9ONvXo)
