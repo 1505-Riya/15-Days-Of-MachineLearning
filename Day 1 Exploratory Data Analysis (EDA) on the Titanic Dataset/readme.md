@@ -44,11 +44,6 @@ The analysis revealed several key insights and relationships within the data. Be
 | --- | --- |
 | **Insight:** Traveling alone lowered survival chances, but very large families also had a lower survival rate. | **Insight:** Passengers who embarked at Cherbourg ('C') had a notably higher survival rate. |
 
-## 🚀 How to Run
-1. Clone the repository.
-2. Install the required libraries: `pip install pandas matplotlib seaborn`
-3. Run the Jupyter Notebook or Python script `titanic_eda.py`.
-
 ## 📚 Resources
 - **Video:** [StatQuest: Exploratory Data Analysis (EDA), A Crash Course](https://www.youtube.com/watch?v=HddgL9ONvXo)
 - **Article:** [A Gentle Introduction to Exploratory Data Analysis](https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11743615964)
